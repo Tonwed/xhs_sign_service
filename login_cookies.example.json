@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-01-01T00:00:00.000000",
+  "cookies": {
+    "xsecappid": "ugc",
+    "loadts": "1700000000000",
+    "a1": "your_a1_value",
+    "webId": "your_webId_value",
+    "gid": "your_gid_value",
+    "websectiga": "your_websectiga_value",
+    "sec_poison_id": "your_sec_poison_id_value",
+    "customer-sso-sid": "your_sso_sid_value",
+    "x-user-id-creator.xiaohongshu.com": "your_user_id",
+    "customerClientId": "your_client_id",
+    "access-token-creator.xiaohongshu.com": "your_access_token",
+    "galaxy_creator_session_id": "your_session_id",
+    "galaxy.creator.beaker.session.id": "your_beaker_session_id",
+    "web_session": "your_web_session_value"
+  }
+}
